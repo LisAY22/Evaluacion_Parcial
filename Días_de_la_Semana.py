@@ -1,3 +1,6 @@
+print("Nombre: Elisa Yanira Ajxup Yax")
+print("Carné: 1553222")
+
 print("Ingrese un número del 1 al 7:")
 opcion=input()
 #opcion.isnumeric()
