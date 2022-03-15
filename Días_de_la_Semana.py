@@ -24,3 +24,5 @@ if(opcion.isnumeric()):
 else:
     print("Ingrese un número para poder continuar")
     exit()
+    
+print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
